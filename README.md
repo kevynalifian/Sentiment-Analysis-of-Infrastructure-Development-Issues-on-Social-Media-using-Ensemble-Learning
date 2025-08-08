@@ -1,1 +1,4 @@
-# Sentiment-Analysis-of-Infrastructure-Development-Issues-on-Social-Media-using-Ensemble-Learning
+# Sentiment Analysis of Infrastructure Development Issues on Social Media using Ensemble Learning
+
+## Description:
+Infrastructure development in Indonesia often sparks diverse public reactions on social media, reflecting varying sentiments and opinions. This study conducts sentiment analysis on social media posts related to infrastructure projects, aiming to understand public perception and discourse. By leveraging ensemble learning techniques—combining models such as Random Forest, Gradient Boosting, and Voting Classifier—the research enhances classification accuracy and robustness. The dataset is preprocessed and labeled into urgent and non-urgent. Results indicate that ensemble methods outperform single classifiers in detecting nuanced public sentiment, providing valuable insights for policymakers and stakeholders to gauge public response and improve communication strategies.
